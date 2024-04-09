@@ -1,5 +1,4 @@
 function plusMinus(arr) {
-    // Write your code here
      var a = Array.from(arr).length;
      var b = 0;
      var c = 0;
